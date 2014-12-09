@@ -437,7 +437,7 @@ var projects = new section ({
                 '1940',
                 'Present'
             ],
-            'description': 'My personal aresnal, pain-stakingly developed to take reduce the monotony of outright mayhem',
+            'description': 'My personal aresnal, pain-stakingly developed to take the monotony out of outright mayhem',
             'images': [
                 'wep1.jpg',
                 'wep2.jpg',
